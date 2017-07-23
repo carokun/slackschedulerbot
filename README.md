@@ -2,8 +2,11 @@
 Overview
 
 what? a language-aware intellegent Slack bot for scheduling reminders and meetings with other Slack users in Google Calendar
+
 who? me and three other programmers from my summer coding bootcamp
+
 how? our application was built on top of three APIs including the Slack API,  the Google Calendar API, and API.AI's language processing API.
+
 
 
 
